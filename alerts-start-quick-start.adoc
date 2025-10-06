@@ -20,7 +20,7 @@ link:alerts-start-prerequisites.html["귀하의 환경이 이러한 요구 사�
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["둘"]ONTAP 알림 설정
 [role="quick-margin-para"]
-link:alerts-start-setup.html["NetApp 콘솔에서 콘솔 에이전트 구성"] .
+link:alerts-start-setup.html["NetApp Console 에서 콘솔 에이전트 구성"] .
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-3.png["삼"]다음은 무엇인가요?
 [role="quick-margin-para"]

@@ -18,7 +18,7 @@ ONTAP 스토리지 시스템과 관련된 알림을 보고 세부 정보를 자�
 
 == 알림 세부 정보 보기
 
-. link:alerts-start-login.html["NetApp 콘솔에 로그인하세요"] .
+. link:alerts-start-login.html["NetApp Console 에 로그인하세요"] .
 . 콘솔 왼쪽 탐색 모음에서 *저장소* > *알림*을 선택합니다.
 . 알림 목록 페이지에서 알림을 선택합니다.
 +

@@ -16,24 +16,24 @@ summary: 환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대�
 
 ONTAP 알림을 보려면 다음 전제 조건이 필요합니다.
 
-* ONTAP 9.10 이상.  온프레미스 시스템은 NetApp 콘솔 시스템 페이지에서 검색해야 합니다.
+* ONTAP 9.10 이상.  온프레미스 시스템은 NetApp Console 시스템 페이지에서 검색해야 합니다.
 +
 ** 클러스터 관리자 ONTAP 권한
 +
-라이센스를 NetApp 콘솔 디지털 지갑에 입력할 필요가 없습니다.
+라이센스를 NetApp Console 디지털 지갑에 입력할 필요가 없습니다.
 
 
 
-* NetApp 콘솔에서:
+* NetApp Console 에서:
 +
-** NetApp 온프레미스 NAS 또는 SAN 스토리지가 있는 NetApp 콘솔 시스템
-** 온프레미스 지역의 콘솔 에이전트는 NetApp 콘솔에 설정해야 합니다. 참조하다 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["콘솔 에이전트를 구성하기 위한 NetApp 콘솔 설명서"^] .
+** NetApp 온프레미스 NAS 또는 SAN 스토리지가 있는 NetApp Console 시스템
+** 온-프레미스 지역의 콘솔 에이전트는 NetApp Console 에 설정해야 합니다. 참조하다 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["콘솔 에이전트를 구성하기 위한 NetApp Console 설명서"^] .
 +
 콘솔 에이전트에서 클러스터가 제거되면 해당 클러스터와 관련된 경고는 90일 동안 유지됩니다.  또한 콘솔 에이전트를 변경하는 경우 알림은 90일 동안 원래 클러스터 및 에이전트와 연결된 상태로 유지됩니다.  원래 상담원에게 돌아가면 해당 알림이 다시 표시됩니다.
 
-** 온프레미스 ONTAP 클러스터에 연결되는 활성 콘솔 에이전트가 하나 이상 있는 NetApp 콘솔 조직입니다.  모든 소스와 시스템은 동일한 NetApp 콘솔 조직에 있어야 합니다.
-** 리소스를 검색하기 위한 조직 관리자 권한이 있는 해당 조직의 NetApp 콘솔 사용자
-** https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["표준 NetApp 콘솔 요구 사항"^]
+** 온프레미스 ONTAP 클러스터에 연결되는 활성 콘솔 에이전트가 하나 이상 있는 NetApp Console 조직입니다.  모든 소스와 시스템은 동일한 NetApp Console 조직에 있어야 합니다.
+** 리소스를 검색하기 위한 조직 관리자 권한이 있는 해당 조직의 NetApp Console 사용자
+** https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["표준 NetApp Console 요구 사항"^]
 
 
 

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="f4b2cfc6ddef927318d045f16b38d151" category="doc">BlueXP alerts 목록 페이지</block>
+  <block id="3108a0619eec0e2ef9c6c5bd796bbf0d" category="paragraph">용량이 적거나 성능이 낮은 ONTAP 클러스터를 빠르게 식별하고, 가용성 범위를 측정하고, 보안 위험을 파악할 수 있습니다.  용량, 성능, 보호, 가용성, 보안 및 구성과 관련된 알림을 볼 수 있습니다.</block>
+  <block id="907b4f5ff0a11b28375c092b0b876c3e" category="section-title">알림 세부 정보</block>
+  <block id="2c132bb868e25bdbc509ab83d2436d71" category="paragraph">알림 세부 정보를 자세히 살펴보고 권장 사항을 찾을 수 있습니다.</block>
+  <block id="9ba3a5a376a4241ee4847ae13742a741" category="section-title">ONTAP 시스템 관리자에 연결된 클러스터 세부 정보 보기</block>
+  <block id="a81101241f6ae4b53dda6f72078e1a84" category="paragraph">BlueXP alerts 사용하면 ONTAP 스토리지 환경과 관련된 알림을 보고 ONTAP System Manager에 연결된 세부 정보를 자세히 살펴볼 수 있습니다.</block>
+  <block id="d0f2765e5de3103a5c432ec160dff29f" category="inline-link">BlueXP alerts 에 대해 알아보세요</block>
+  <block id="52db2fc7f4de1af0e1245bc3f891ce57" category="paragraph"><block ref="094e829cc75a913d98050fa15a3d0c12" category="inline-link-rx"></block> .</block>
+  <block id="e2d159efa7a8b8226e5914e1a2875270" category="doc">BlueXP alerts 이제 ONTAP 알림입니다.</block>
+  <block id="5928017639f3567a373281effc14e646" category="paragraph">BlueXP alerts ​​ONTAP 알림으로 이름이 변경되었습니다.</block>
+  <block id="0876dff5408aa260368cca439a8ae55f" category="paragraph">NetApp Console 왼쪽 탐색 모음에서 *저장소* &gt; *알림*을 선택하여 액세스할 수 있습니다.</block>
+  <block id="bc2fe31b1e2682a9a79513d792e9c721" category="section-title">BlueXP 는 이제 NetApp Console 입니다.</block>
+  <block id="995c8f79a8e07fbd8d519e45d03d6004" category="paragraph">강화되고 재구성된 BlueXP 기반을 기반으로 구축된 NetApp Console 엔터프라이즈급 온프레미스 및 클라우드 환경에서 NetApp 스토리지와 NetApp Data Services 중앙에서 관리하여 실시간 통찰력, 더 빠른 워크플로, 간소화된 관리를 제공하며, 높은 보안성과 규정 준수를 보장합니다.</block>
+  <block id="2ef9d641d45afe99b74ad6f9a9f797ad" category="inline-link-macro">NetApp Console 릴리스 노트</block>
+  <block id="07a0717927710f1dcb5683cb20238dcb" category="paragraph">변경된 내용에 대한 자세한 내용은 다음을 참조하세요.<block ref="a3987562479f1a66db4eec298b79e00c" category="inline-link-macro-rx"></block> .</block>
+  <block id="030b7de018ed99bfa8db61b5e97e2599" category="summary">이 NetApp 알림 FAQ는 질문에 대한 빠른 답변을 찾는 데 도움이 될 수 있습니다.</block>
+  <block id="b1e2d6628693557f3a5a3ca3c4530250" category="doc">NetApp 알림에 대한 자주 묻는 질문</block>
+  <block id="de6044ece395dfd765398ebdeb8dc2d2" category="paragraph">NetApp 알림에 대한 질문에 대한 빠른 답변을 찾고 있다면 이 FAQ가 도움이 될 수 있습니다.</block>
+  <block id="1e6fd63bf687deb60ecb0cdd4feac121" category="section-title">NetApp 알림에 액세스</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
+  <block id="0d6e5faf80b288a1d3277954d0b55ae8" category="inline-link"><block ref="0d6e5faf80b288a1d3277954d0b55ae8" category="inline-link-rx"></block></block>
+  <block id="de03422b430ee8a7d21f31600a14fa03" category="paragraph">* NetApp 알림 URL은 무엇입니까?*  브라우저에서 URL을 입력하세요.<block ref="50afa4cc4e54d55b53b9cfffe1bc930c" category="inline-link-rx"></block> NetApp Console 액세스하려면.</block>
+  <block id="a7d8432241f3b13f346a19366473edb0" category="paragraph">* NetApp 알림을 사용하려면 라이선스가 필요합니까?*</block>
+  <block id="6d8154f15dd94ef7066769bc6604d73b" category="paragraph">NetApp 알림을 사용하려면 NetApp ONTAP 9.10 이상 라이선스가 필요합니다.  라이센스를 NetApp Console 디지털 지갑에 입력할 필요가 없습니다.</block>
+  <block id="1bf50d5fcc503f9524f66780e661fc05" category="paragraph">NetApp 알림에는 평가판 라이선스가 필요하지 않습니다.</block>
+  <block id="ba6fe9f7f33dacafd8c28fd30a4e1738" category="paragraph">* NetApp 알림을 어떻게 활성화하나요?*  NetApp 알림에는 어떠한 활성화도 필요하지 않습니다.  알림 옵션은 NetApp Console 왼쪽 탐색에서 자동으로 활성화됩니다.</block>
+  <block id="571e529f0cb61c255c14f9ed7fe377a1" category="paragraph">시작하려면 콘솔 에이전트를 사용하면 NetApp 알림에 적합한 기능이 포함됩니다.</block>
+  <block id="6e4aaee8acfa05cb19526c98c1cd3c28" category="paragraph">** NetApp 알림은 표준, 제한 및 비공개 모드에서 사용할 수 있나요?**  NetApp 알림은 NetApp Console 표준(공개)에서만 배포할 수 있습니다.</block>
+  <block id="2a9ab4f690bade887dade42f4a0f412b" category="inline-link">NetApp Console 배포 모드</block>
+  <block id="1d2025502a826f4157380055e788ce54" category="paragraph">모든 NetApp Console 서비스에서 이러한 모드에 대한 설명은 다음을 참조하세요.<block ref="63e8b0eaab89868588f59e14953b3639" category="inline-link-rx"></block> .</block>
+  <block id="385d515a8ccb348b8e3fb198977fbe27" category="paragraph">**접근 권한은 어떻게 처리되나요?**  NetApp Console 조직 관리자만 NetApp 알림을 시작하고 워크로드를 검색할 수 있습니다(이는 리소스 사용에 대한 커밋을 포함하기 때문).</block>
+  <block id="713658ac5caaebb5e5eaa4cee5dc25d4" category="paragraph">알림은 NetApp Console 조직 내 클러스터 리소스에 대한 액세스 권한에 따라 로그인한 사용자에게 표시됩니다.</block>
+  <block id="428c58ec1c2902ea6bff31e38cae88ff" category="section-title">알림 보기</block>
+  <block id="6cc9a992642ce4690d105ac184a67ee8" category="paragraph">**알림을 받기까지 얼마나 기다려야 하나요?**</block>
+  <block id="341e7ceedeb864cd8d795298ba6d763b" category="paragraph">최초 발견까지 최대 15분을 기다리세요. 그 후 알림이 나타날 때까지 최대 5분을 기다리세요.  이는 경보마다 다릅니다.</block>
+  <block id="bd82420e5f9b04669d56e56e71f7312c" category="paragraph">**콘솔 에이전트 없이 직접 모드를 사용하여 ONTAP 에 대한 알림을 볼 수 없는 이유는 무엇입니까?*</block>
+  <block id="1010fc3dc9e49d611b350bb91dce53db" category="paragraph">NetApp 알림은 온프레미스 표준 콘솔 에이전트를 통해서만 사용할 수 있습니다.  직접 모드를 사용하면 클러스터를 모니터링하지 않고 경고도 표시하지 않습니다.</block>
+  <block id="e3ff16e21f6082f8d57e23f84439cd04" category="paragraph">**일부 알림이 알림 목록 페이지에서 사라지는 이유는 무엇인가요?**</block>
+  <block id="2b2c3c30eaf3e78010285ee747d45207" category="paragraph">알림 기능은 일부 알림을 활성 상태로 유지하고 카운터 조건이 충족되거나 일정 시간이 지나면 알림을 닫습니다.  이는 경보마다 다릅니다.</block>
+  <block id="e0da34134a1b328f6ccb76d662397ec6" category="paragraph">모든 알림을 보려면 상태 열 필터를 선택하고 닫힘 옵션을 선택하세요.</block>
+  <block id="f39f0edd7fe5e18fbb584c564afa9b8c" category="section-title">정보 표시</block>
+  <block id="90b65a8e54431c284a944ef2495d443c" category="paragraph">**어떤 기기에 가장 적합한 해상도가 있나요?**  NetApp 알림에 권장되는 장치 해상도는 1920x1080 이상입니다.</block>
+  <block id="036b094f4c535bf7c0faf82885715824" category="paragraph">**어떤 브라우저를 사용해야 하나요?**  모든 최신 브라우저에서 작동합니다.</block>
+  <block id="ab20d0570b05394ebda358cc9765f168" category="summary">NetApp Console 에서 ONTAP 알림에 액세스하여 ONTAP 알림을 시작하세요.</block>
+  <block id="997b151c303e930be6eb11d07b750c9b" category="doc">ONTAP 알림에 액세스</block>
+  <block id="d566990a945e68cbceb33542d8946e86" category="paragraph">NetApp Console 사용하여 ONTAP 알림을 볼 수 있습니다.</block>
+  <block id="8e917942a77709dfd28c155f42a97553" category="inline-link">로그인에 대해 자세히 알아보세요</block>
+  <block id="7f81f279fa77dc8c4ec817512c79430b" category="paragraph">NetApp Console 에 로그인하려면 NetApp 지원 사이트 자격 증명을 사용하거나 이메일과 비밀번호를 사용하여 NetApp 클라우드 로그인에 가입할 수 있습니다.<block ref="83012c4a40bb3321733997744c83daa9" category="inline-link-rx"></block> .</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
+  <block id="3c031b939f6ec312ee601d021e7a6644" category="inline-link">NetApp Console</block>
+  <block id="6a65fb509b9c682f9df5eb122484e2f7" category="list-text">웹 브라우저를 열고 이동하세요<block ref="d6205946f936217747639e85e1340e8f" category="inline-link-rx"></block> .</block>
+  <block id="94304f80962e8b0bea262a111465465e" category="paragraph">콘솔 로그인 페이지가 나타납니다.</block>
+  <block id="4a43cddfeeabba4570c14c252dec0bd1" category="list-text">콘솔에 로그인합니다.</block>
+  <block id="32b188043cb8e9a4b68b63905f06d4d5" category="list-text">콘솔 왼쪽 탐색 모음에서 *저장소* &gt; *알림*을 선택합니다.</block>
+  <block id="b80c68e1a6cb6ff2b0c33328d4c4aa30" category="paragraph">알림 목록 페이지가 나타납니다.</block>
+  <block id="d0ca125912483904cd0260fb9c1c130e" category="inline-image-macro">ONTAP 알림 목록 페이지</block>
+  <block id="f3f5e35860abd77bf5e9d880f733f305" category="paragraph"><block ref="f3f5e35860abd77bf5e9d880f733f305" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a7f4aecb9c9fafdf0a312a2771b64979" category="summary">환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대한 지원을 확인하여 ONTAP 알림을 시작하세요.</block>
+  <block id="21951dc427ffb108c0d2309da90bf3ad" category="doc">ONTAP 알림 전제 조건</block>
+  <block id="2878a9b912d8edd1c746a281086859e4" category="paragraph">운영 환경의 준비 상태를 확인하여 ONTAP 알림을 시작하세요.</block>
+  <block id="2dff40a51039866cfa9877c71cf0946d" category="paragraph">ONTAP 알림을 보려면 다음 전제 조건이 필요합니다.</block>
+  <block id="6145de872df8cf84cefb3a07d478d33b" category="list-text">ONTAP 9.10 이상.  온프레미스 시스템은 NetApp Console 시스템 페이지에서 검색해야 합니다.</block>
+  <block id="7226a116fcbbcf04521e1a358b285ccb" category="list-text">클러스터 관리자 ONTAP 권한</block>
+  <block id="8e10f87cfd1ee1b744931b15c636b85e" category="paragraph">라이센스를 NetApp Console 디지털 지갑에 입력할 필요가 없습니다.</block>
+  <block id="3474a0af34c68595958d829df3074db7" category="list-text">NetApp Console 에서:</block>
+  <block id="a521c7f037b86dd05ae77973da29af3d" category="list-text">NetApp 온프레미스 NAS 또는 SAN 스토리지가 있는 NetApp Console 시스템</block>
+  <block id="682404f179d47778d942c78f8aad3e5d" category="inline-link">콘솔 에이전트를 구성하기 위한 NetApp Console 설명서</block>
+  <block id="0776e8830963c44896a1eb4ac13b1aa1" category="list-text">온-프레미스 지역의 콘솔 에이전트는 NetApp Console 에 설정해야 합니다. 참조하다<block ref="3a58eba640811abd219444484fb7ea14" category="inline-link-rx"></block> .</block>
+  <block id="3718f5f2e70fdc64742e894a8b844896" category="paragraph">콘솔 에이전트에서 클러스터가 제거되면 해당 클러스터와 관련된 경고는 90일 동안 유지됩니다.  또한 콘솔 에이전트를 변경하는 경우 알림은 90일 동안 원래 클러스터 및 에이전트와 연결된 상태로 유지됩니다.  원래 상담원에게 돌아가면 해당 알림이 다시 표시됩니다.</block>
+  <block id="c7190e84056f6f7ebce94d1670008bb4" category="list-text">온프레미스 ONTAP 클러스터에 연결되는 활성 콘솔 에이전트가 하나 이상 있는 NetApp Console 조직입니다.  모든 소스와 시스템은 동일한 NetApp Console 조직에 있어야 합니다.</block>
+  <block id="94b79f48e2ccfdd5283d52b8ffb443f7" category="list-text">리소스를 검색하기 위한 조직 관리자 권한이 있는 해당 조직의 NetApp Console 사용자</block>
+  <block id="3405772d81d967f60af74e843b9c41ac" category="inline-link">표준 NetApp Console 요구 사항</block>
+  <block id="033e6079c9941a911dded82a3f954dc1" category="list-text"><block ref="033e6079c9941a911dded82a3f954dc1" category="inline-link-rx"></block></block>
+  <block id="bd2a9e44ae67b6363d40e7023b1975c7" category="summary">몇 단계만 거치면 ONTAP 알림을 시작할 수 있습니다.</block>
+  <block id="ab7b94688a43f70e452ec72d6e01e779" category="doc">ONTAP 알림에 대한 빠른 시작</block>
+  <block id="150e7563e7535b53321f3d2db0d27ec7" category="paragraph">ONTAP 알림을 시작하는 데 필요한 단계에 대한 개요는 다음과 같습니다.  각 단계 내의 링크를 클릭하면 자세한 내용을 제공하는 페이지로 이동합니다.</block>
+  <block id="06c2cea18679d64399783748fa367bdd" category="inline-image-macro">하나</block>
+  <block id="a2d56436fc6737079209e6c74380c5fb" category="paragraph-title"><block ref="58f667aaf05f87159670e12bd9bc076b" category="inline-image-macro-rx" type="image"></block>필수 조건 검토</block>
+  <block id="d73fd850784e1d8dbda69ab3ca51e7cf" category="inline-link-macro">귀하의 환경이 이러한 요구 사항을 충족하는지 확인하세요.</block>
+  <block id="5d0bd3e6409d405ee17df2011d3575e5" category="paragraph"><block ref="b2b5204beec9643a42fc982599cdc423" category="inline-link-macro-rx"></block> .</block>
+  <block id="aada29daee1d64ed0fe907043855cb7e" category="inline-image-macro">둘</block>
+  <block id="768d4296fcd2a507ba3a9941ae4df47f" category="paragraph-title"><block ref="54f425ce8d89f4ed6b8a546561af5d60" category="inline-image-macro-rx" type="image"></block>ONTAP 알림 설정</block>
+  <block id="6514a17fd8b81451fa538c01c099c5ae" category="inline-link-macro">NetApp Console 에서 콘솔 에이전트 구성</block>
+  <block id="fd3a21b97d06d8c514575f0a7cefe079" category="paragraph"><block ref="ae4b9d708e0678f68b4c105b9b0591b5" category="inline-link-macro-rx"></block> .</block>
+  <block id="ca8a2087e5557e317599344687a57391" category="inline-image-macro">삼</block>
+  <block id="fb35cdd7029fec15aadbdddd879fa161" category="paragraph-title"><block ref="05b2444faffd66d76e88602ea7dd353f" category="inline-image-macro-rx" type="image"></block>다음은 무엇인가요?</block>
+  <block id="82a77cde8bb5266cf40fc8a254211ae3" category="paragraph">ONTAP 알림을 설정한 후, 다음으로 할 수 있는 일은 다음과 같습니다.</block>
+  <block id="a68cc2b6c1c2c8b9e9f66b53fa448022" category="inline-link-macro">알림 목록 페이지에서 저장 문제 및 잠재적 위험을 확인하세요.</block>
+  <block id="dd0992661d3a920b16a7c2795b9cd366" category="list-text"><block ref="24e8eb073a02ee555a5d57d98ab7c836" category="inline-link-macro-rx"></block> .</block>
+  <block id="d63c2786beb521865505852c24d3bbc3" category="inline-link-macro">ONTAP 시스템 관리자에서 경고 세부 정보 보기</block>
+  <block id="414ad1486187ff3c1de9f223f4a90b12" category="list-text"><block ref="e51d8f8d14c84f442ec45adf1927779a" category="inline-link-macro-rx"></block> .</block>
+  <block id="3cd85fd670dfae6802e6410e62d90bfb" category="summary">ONTAP 알림을 보려면 몇 가지 단계를 거쳐 설정하세요.</block>
+  <block id="9b98870a61e01e5b412af3b272db8094" category="doc">ONTAP 알림 설정</block>
+  <block id="20db98482b5f8e40001715aa9d4ecabf" category="paragraph">ONTAP 알림을 사용하려면 몇 가지 단계를 거쳐 설정하세요.</block>
+  <block id="b5b8e67d6a37d24ad73c89e4c7ac8c9e" category="inline-link-macro">전제 조건</block>
+  <block id="20f8d4df820ee3c6f7d2384adc35406f" category="paragraph">시작하기 전에 검토하세요<block ref="b8a12953eaed5434208690571b21dc3b" category="inline-link-macro-rx"></block> 귀하의 환경이 준비되었는지 확인하세요.</block>
+  <block id="67a50452f70d09a4796d712935acce40" category="inline-link">표준 NetApp Console 요구 사항</block>
+  <block id="10d5c90fc807b2c9968a61c35be570c9" category="paragraph">검토<block ref="0f2cc189841820bbf400fd90cf6cb8ee" category="inline-link-rx"></block> .</block>
+  <block id="36ac020ea992572fe71a4d8e25c3367c" category="section-title">클러스터 리소스에 대한 액세스</block>
+  <block id="7139521b714941d55112733b7cf03d53" category="paragraph">알림을 보려면 로그인한 사용자가 NetApp Console 조직의 일원이어야 하며 클러스터 리소스에 필요한 액세스 권한이 있어야 합니다.</block>
+  <block id="0382d445298ad46bfe9bb89d2b1bbc4a" category="section-title">콘솔 에이전트 만들기</block>
+  <block id="3dd7cacd77fb6e8057d9e217fd891a6f" category="paragraph">ONTAP 알림을 사용해보거나 사용하려면 NetApp 영업 담당자에게 문의하세요.  그런 다음 콘솔 에이전트를 사용하면 ONTAP 알림에 적합한 기능이 포함됩니다.</block>
+  <block id="039a0f51fabaf695c33b745ebbd147bf" category="inline-link">콘솔 에이전트를 만드는 방법</block>
+  <block id="8fed773d65475ff42b08b1ecb1f4159d" category="paragraph">NetApp Console 에서 콘솔 에이전트를 생성하려면 해당 내용을 설명하는 BlueXP 설명서를 참조하세요.<block ref="a747c66fa3a9e5a767b0d1460e988f0c" category="inline-link-rx"></block> .</block>
+  <block id="6c823ff1b56d97271e2dbd9df851abea" category="paragraph">콘솔 에이전트를 설정하고 시스템을 추가한 후 초기 검색을 위해 약 15분 정도 기다리세요.</block>
+  <block id="a4df535abb0a890cc12d8f3f689cd6fc" category="summary">NetApp 알림을 사용하면 ONTAP 스토리지 시스템과 관련된 알림을 보고 ONTAP System Manager에 연결된 세부 정보를 자세히 살펴볼 수 있습니다.</block>
+  <block id="db7b178791e73d310772b22318d276a4" category="doc">ONTAP 스토리지 시스템에서 알림 세부 정보 보기</block>
+  <block id="5bee998cea63cf3992ac05c0d970e3bc" category="paragraph">ONTAP 스토리지 시스템과 관련된 알림을 보고 세부 정보를 자세히 알아보세요.</block>
+  <block id="9f64c529078a13eebc43993d1ac578d4" category="section-title">알림 세부 정보 보기</block>
+  <block id="0aa8eee6dc5796fb05ecd4c09063d90a" category="inline-link-macro">NetApp Console 에 로그인하세요</block>
+  <block id="d637e96d65eaafb224969ea924b4a31b" category="list-text"><block ref="51c2ef87d78b9f81e1888478d4847fb1" category="inline-link-macro-rx"></block> .</block>
+  <block id="dd29728715f5ca672672acc21b977d6a" category="list-text">알림 목록 페이지에서 알림을 선택합니다.</block>
+  <block id="098e423bd0ee32c364dc743fff392233" category="inline-image-macro">알림 세부 정보</block>
+  <block id="6d6b711c0023f5df6869f9738b247408" category="paragraph"><block ref="6d6b711c0023f5df6869f9738b247408" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="e343346ee75f85e1816cdd01ca56792d" category="list-text">아래로 스크롤하여 제안된 시정 조치를 확인하세요.</block>
+  <block id="eb8303fe9491419d4ead82bfa9608f89" category="list-text">아래로 스크롤하여 경고가 발생한 개체와 관련된 추가 경고를 찾으세요.</block>
+  <block id="4738ae4d419e1b8ae8c55bb48647f17b" category="section-title">ONTAP System Manager에서 클러스터에 대한 세부 정보 보기</block>
+  <block id="75b64c8cc2cc6461f64d999dd97415b2" category="list-text">알림에서 페이지 상단의 클러스터 이름을 선택합니다.</block>
+  <block id="0bcbc2fded8f028c3e76ed1c185d666a" category="paragraph">이제 ONTAP 시스템 관리자가 클러스터에 대한 정보를 표시합니다.</block>
+  <block id="65e258b6ac9a03cbc11acfd695c940ce" category="summary">ONTAP 환경의 상태에 대한 정보를 한눈에 확인하세요.  용량이 적거나 성능이 낮은 ONTAP 클러스터를 빠르게 식별하고, 가용성 범위를 측정하고, 가용성을 확인하고, 보안 위험을 식별할 수 있습니다.</block>
+  <block id="2eb867d8ce3791fb94cfdab8c6ac78a0" category="doc">알림 목록 페이지를 사용하여 ONTAP 스토리지의 잠재적 위험을 확인하세요.</block>
+  <block id="d9e9b6e7a93ba50ed35e625862dab349" category="paragraph">ONTAP 시스템의 잠재적 위험에 대한 정보를 한눈에 확인하세요.  용량이 적거나 성능이 낮은 ONTAP 클러스터를 빠르게 식별하고, 가용성 범위를 측정하고, 가용성을 확인하고, 보안 위험을 식별할 수 있습니다.</block>
+  <block id="92c6688b2aebbd7f306f07490427e63a" category="paragraph">다음의 심각도와 영향 영역에 대한 정보를 확인할 수 있습니다.</block>
+  <block id="a3463ce74ef6d3d7aafb60fc0726d9ce" category="list-text">*심각도*: 중요, 경고, 정보</block>
+  <block id="1c5882efccfb1ce6046da852a8583eb8" category="list-text">*영향 영역*: 용량, 성능, 가용성, 보호, 보안, 구성</block>
+  <block id="ac4b7d569a38793a92acd5f442401804" category="section-title">당신이 볼 수 있는 알림</block>
+  <block id="75dbb090fe30b972f21176d5e902bbd6" category="paragraph">표시되는 알림 중 일부는 다음과 같습니다.</block>
+  <block id="b4ce430460104f8cd9e73ce237c26273" category="paragraph">EMS 심각도는 다음과 같은 방식으로 ONTAP 경보 심각도에 매핑됩니다.</block>
+  <block id="91c761791147d91928659247c271d819" category="cell">EMS 경보 심각도:</block>
+  <block id="4d595396577f05096673175b8c59e1a9" category="cell">NetApp Console 경고 심각도:</block>
+  <block id="a06259142ffb0ecbfe14eae4658e10fd" category="cell">경보 또는 비상</block>
+  <block id="7e85bcb66fb9a809d5ab4f62a8b8bea8" category="cell">비판적인</block>
+  <block id="cb5e100e5a9a3e7f6d1fd97512215282" category="cell">오류</block>
+  <block id="6adf97f83acf6453d4a6a4b1070f3754" category="cell">None</block>
+  <block id="28d0edd045e05cf5af64e35ae0c4c6ef" category="cell">낮은</block>
+  <block id="7b83d3f08fa392b79e3f553b585971cd" category="cell">경고</block>
+  <block id="efd2af60c8501931cb9c736b5ad74f65" category="cell">알아채다</block>
+  <block id="1f48d99cd04299352fb1cfc658d86b35" category="cell">정보 제공</block>
+  <block id="426b60b96f19689fe0d9002d76f4ecfa" category="example-title">알림 목록</block>
+  <block id="d712d7c120eeb1773e822680ae05e1e6" category="paragraph">중대한 심각도 경고:</block>
+  <block id="07924c9f11edc6dce661034be95eea23" category="list-text">집계 상태가 온라인이 아닙니다.</block>
+  <block id="cd8715e2c61c160919c471d458f34912" category="list-text">디스크 오류</block>
+  <block id="7fd2d7dd529b8399307eba295b61ba41" category="list-text">SnapMirror 지연 시간이 길어요</block>
+  <block id="86b6c911199fbbc3f1eb9bb48dbeac84" category="list-text">볼륨 상태 오프라인</block>
+  <block id="251dfb413e6706021869a69f911a1722" category="list-text">사용된 볼륨 백분율 위반</block>
+  <block id="6dfc7a1d3e7177289844685485b60333" category="paragraph">EMS 알림:</block>
+  <block id="68312e4565de2800f938b104810df85e" category="list-text">바이러스 백신 서버가 사용 중입니다</block>
+  <block id="67138763af94cb16b8731cb643c19d09" category="list-text">AWS 자격 증명이 초기화되지 않았습니다.</block>
+  <block id="3294e7fb98db2e274fe298085409b43d" category="list-text">클라우드 계층에 도달할 수 없음</block>
+  <block id="c368f13ac2010057caf5a5f737a1ff11" category="list-text">디스크가 서비스되지 않음</block>
+  <block id="68e372a9533db9f1009167981ec6816a" category="list-text">디스크 쉘프 전원 공급 장치 발견</block>
+  <block id="cd15b8dfe06196bb36c3f01bf61bb243" category="list-text">디스크 선반 전원 공급 장치 제거됨</block>
+  <block id="888cc30ee74334fe6bcc7da9683a9548" category="list-text">FabricPool 미러 복제 재동기화가 완료되었습니다.</block>
+  <block id="b3f64f74cfa68b9d9273714d12abde1f" category="list-text">FabricPool 공간 사용 한도에 거의 도달했습니다.</block>
+  <block id="1062a5c87c81d5399b321535a61500b2" category="list-text">FabricPool 공간 사용 한도에 도달했습니다.</block>
+  <block id="17705794a65b95a1c8b74ac2210b8965" category="list-text">FC 대상 포트 명령이 초과되었습니다.</block>
+  <block id="b6556b04e20f707436c67a1a56576275" category="list-text">스토리지 풀 반환에 실패했습니다.</block>
+  <block id="e53dabd176c531c7832b7012ce67b097" category="list-text">HA 상호 연결 다운</block>
+  <block id="c6ab7e74ccdd427238b6e1efb492170f" category="list-text">LUN이 파괴되었습니다</block>
+  <block id="3abb2131a440928b050c2e8edf69401d" category="list-text">LUN 오프라인</block>
+  <block id="a8fb2d4668615c99a8d059affbe6cd22" category="list-text">메인 유닛 팬이 고장났습니다</block>
+  <block id="d68566c5b4b122118fbbd417a4264980" category="list-text">메인 유닛 팬 경고 상태</block>
+  <block id="623b69fd62d13218cecda606713b9a46" category="list-text">사용자당 최대 세션 수를 초과했습니다.</block>
+  <block id="62c9b4a4bb67fa65a7daa64a38e92bd7" category="list-text">파일당 열린 최대 시간을 초과했습니다.</block>
+  <block id="6a85357206771eef22386a802fa758d6" category="list-text">MetroCluster 자동 계획되지 않은 전환이 비활성화되었습니다.</block>
+  <block id="7c13e07c8bd8e6ff962c7cafd1d1a6dc" category="list-text">MetroCluster 모니터링</block>
+  <block id="e9c41a5d661c53796c05bc2c50b34f7a" category="list-text">NetBIOS 이름 충돌</block>
+  <block id="b9f7c1d1c6c8720b64e393cff38635a5" category="list-text">NFSv4 소어 풀이 소진되었습니다</block>
+  <block id="a662add42742c1fa3d8a2948ec679396" category="list-text">노드 패닉</block>
+  <block id="673c9cb749a6c87d90677e56540016c5" category="list-text">노드 루트 볼륨 공간 낮음</block>
+  <block id="74f22088830d5b73900d650afa41b6b6" category="list-text">존재하지 않는 관리자 공유</block>
+  <block id="642ca130535e44c6a6c23b26ff3e201f" category="list-text">응답하지 않는 바이러스 백신 서버</block>
+  <block id="c2ef4ca2490676426d41004ed902e321" category="list-text">등록된 스캔 엔진이 없습니다</block>
+  <block id="810c9aeab7ad4d2e0b8d494a3c0fd4ac" category="list-text">Vscan 연결이 없습니다</block>
+  <block id="688c4dedde96dd6405687b605a738c6c" category="list-text">NVMe 네임스페이스가 파괴되었습니다.</block>
+  <block id="e0fd74d205a2c0efeb1aa85ab995741f" category="list-text">NVMe 네임스페이스 오프라인</block>
+  <block id="ad0de762f84c09735c0f51f22e1b0751" category="list-text">NVMe 네임스페이스 온라인</block>
+  <block id="ff7b07c4a088c2e6514ed20c977afebc" category="list-text">NVMe-oF 라이선스 유예 기간 활성화됨</block>
+  <block id="6911852fee5f58482b977dfa9e8b5a11" category="list-text">NVMe-oF 라이선스 유예 기간이 만료되었습니다.</block>
+  <block id="34fc115596c046ddfb198b1a0918c528" category="list-text">NVMe-oF 라이선스 유예 기간 시작</block>
+  <block id="0af93bd4e12e413bd4f75779ca5fe3fc" category="list-text">NVRAM 배터리 부족</block>
+  <block id="13bd76a0c80421e4213cd354adec1f28" category="list-text">개체 저장소 호스트를 확인할 수 없습니다.</block>
+  <block id="b07ff64f0fd66d1ca0444e966351a716" category="list-text">개체 저장소 Intercluster LIF 다운</block>
+  <block id="14b95f6864656d1432576256c773fb6c" category="list-text">개체 저장소 서명 불일치</block>
+  <block id="4b7fe47946422f99ed2eff8b286d5d5a" category="list-text">QoS 모니터 메모리가 최대치에 도달했습니다.</block>
+  <block id="42f9362e8f5c9f627583fcae61bb3009" category="list-text">랜섬웨어 활동이 감지되었습니다.</block>
+  <block id="5a78f645e146f5884b1aeddc8a377465" category="list-text">스토리지 풀 이전이 실패했습니다.</block>
+  <block id="900dfdc7aa5e2e4d21e8e383a7bc5695" category="list-text">ONTAP Mediator가 추가되었습니다.</block>
+  <block id="117612d2385e596d10a53e879fd9c6d4" category="list-text">ONTAP Mediator에 접근할 수 없습니다</block>
+  <block id="984ffe90674a334608f6dc29eea93d0f" category="list-text">ONTAP 중재자에 접근할 수 없습니다</block>
+  <block id="b13dc84e8bf07544983a0f1bcc9bacfd" category="list-text">ONTAP Mediator가 제거되었습니다.</block>
+  <block id="7ca3fa8cbb818f2b752b180a8f6578c8" category="list-text">READDIR 시간 초과</block>
+  <block id="74cd200ec793ce967454bab4df21e86f" category="list-text">SAN "활성-활성" 상태가 변경되었습니다.</block>
+  <block id="6d298824911962a6173e9856bea08969" category="list-text">서비스 프로세서 하트비트가 누락되었습니다.</block>
+  <block id="e31c7c626929cffcd19eb25ea3d48bcf" category="list-text">서비스 프로세서 하트비트가 중지되었습니다.</block>
+  <block id="9e893917a086c9211a69e94cfdbc6de7" category="list-text">서비스 프로세서 오프라인</block>
+  <block id="2eefb727adf8f00ed6c0c06f0de04bee" category="list-text">서비스 프로세서가 구성되지 않았습니다</block>
+  <block id="fa95406e3f6be61a90c80d07495392ab" category="list-text">섀도 복사본이 실패했습니다</block>
+  <block id="2e6c8588eca8579ea3d901edba5187c5" category="list-text">저전력을 수신하는 FC 대상 어댑터의 SFP</block>
+  <block id="e3f46f77f673c669dbf7591bf3714534" category="list-text">FC 타겟 어댑터의 SFP가 저전력을 전송합니다.</block>
+  <block id="87bcf69ffc1341c3e738e6f5f0829b89" category="list-text">선반 팬이 고장났습니다</block>
+  <block id="129eccbd447ee5ec6db178923e1e891b" category="list-text">SMBC CA 인증서가 만료되었습니다.</block>
+  <block id="542f0de59690111da4c9cfe4b7839228" category="list-text">SMBC CA 인증서 만료</block>
+  <block id="fcfb955a42ea6727cf9655dfcbc95b29" category="list-text">SMBC 클라이언트 인증서가 만료되었습니다.</block>
+  <block id="6ef327b672c485123c9bcc462d256668" category="list-text">SMBC 클라이언트 인증서 만료</block>
+  <block id="2cb36dc8e68ee54aec697f86f2d4b12d" category="list-text">SMBC 관계 동기화 안 됨</block>
+  <block id="8a892c6a7fdca0a74894c6fd035d9f73" category="list-text">SMBC 서버 인증서가 만료되었습니다.</block>
+  <block id="11646092abadafa9bf54db871c93d36a" category="list-text">SMBC 서버 인증서 만료</block>
+  <block id="357da3c15f5b4166ed1b9756ef219e71" category="list-text">SnapMirror 관계가 동기화되지 않았습니다.</block>
+  <block id="ae68c6c4c6cae7459282877916f7239d" category="list-text">스토리지 스위치 전원 공급 장치에 오류가 발생했습니다.</block>
+  <block id="5b18b77cd9a23623241f767e7e3dda1f" category="list-text">스토리지 VM 랜섬웨어 방지 모니터링</block>
+  <block id="f227b1f80874035c71dc8b251f697d06" category="list-text">스토리지 VM 중지가 성공했습니다.</block>
+  <block id="4fc7fee1a16781be47a8fcb65bbf6c32" category="list-text">메인 유닛 팬 고장으로 인해 시스템이 작동할 수 없습니다.</block>
+  <block id="df9077cd90f3562314293fe500b45638" category="list-text">CIFS 인증이 너무 많습니다.</block>
+  <block id="211ffae8cf271f4086db6aa84fe1dcff" category="list-text">할당되지 않은 디스크</block>
+  <block id="5d20854d3722e028d9bf19a7825780ec" category="list-text">관리자 공유에 대한 무단 사용자 액세스</block>
+  <block id="fd336287253648f0aff675505ba26228" category="list-text">바이러스가 감지되었습니다</block>
+  <block id="ffeaca4f7d6a46d7049fc8e2b7f0b27b" category="list-text">볼륨 랜섬웨어 모니터링</block>
+  <block id="787c13bd5678ea2fd13caed9c3d7f793" category="list-text">볼륨 자동 크기 조절이 성공했습니다.</block>
+  <block id="70e7847ce31f3a07ce7dbe2cac0c55bf" category="list-text">볼륨 오프라인</block>
+  <block id="d963b659cc2c03f1af4ded1f17740e4f" category="list-text">볼륨 제한</block>
+  <block id="79f36a1cf2d28dc09a5c06d96f5fc526" category="inline-link">ONTAP 시스템 관리자는 용량, 보안 및 구성 문제에 대한 통찰력을 제공합니다.</block>
+  <block id="b433a03cbe41f57ebb306c3f7c73f769" category="paragraph">ONTAP 알림에 대한 자세한 내용은 ONTAP 설명서 및 ONTAP System Manager 인사이트를 참조하세요.<block ref="54212393114a0de7994bf970936414f9" category="inline-link-rx"></block> .</block>
+  <block id="62ee36e144821eacbed3c81b0f0497c8" category="section-title">ONTAP 스토리지 문제 보기</block>
+  <block id="57a624113e37868bd2b6fb20c73ad033" category="paragraph">발견 후 알림 목록 페이지에 ONTAP 시스템의 알림 목록이 표시됩니다.</block>
+  <block id="289010f9c9e24d4f5f19f962dc4bca76" category="paragraph">이벤트가 발생한 후 ONTAP 알림에 이벤트가 표시될 때까지 지연이 발생할 수 있습니다.</block>
+  <block id="edf8cb82991154f2e9d942bdccaeef0a" category="list-text">알림 목록 페이지에서는 다음 작업을 보고 수행할 수 있습니다.</block>
+  <block id="77ed20769d8fd734bacb2c2c1433f364" category="list-text">열의 위쪽 또는 아래쪽 화살표를 선택하여 정렬 순서를 변경합니다.</block>
+  <block id="b7fb9d0113e25b01750477e170f85124" category="list-text">원하는 정보만 표시되도록 열의 필터를 변경하세요.</block>
+  <block id="c61436e6bf0a41b39ab2a42fbf9e0644" category="admonition">예를 들어, 용량과 관련된 알림만 보고 싶을 수 있습니다.  이렇게 하려면 영향 영역 열에서 필터 아이콘을 선택하고, *수용량*을 선택한 다음 *적용*을 선택하세요.</block>
+  <block id="0f7a9a7a2a6073b4490fabb339f41057" category="inline-image-macro">영향 영역 필터를 보여주는 알림 페이지</block>
+  <block id="4df898e17ef9f4529b1a38042a44e337" category="paragraph"><block ref="4df898e17ef9f4529b1a38042a44e337" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="965f7cc3cce0fc10d5fd67a7338c6f10" category="list-text">알림 정보가 포함된 CSV 파일을 다운로드합니다.</block>
+  <block id="b2bb87d2f0e54538ffcdb7880272c3c0" category="paragraph">최대 1000개의 알림을 다운로드할 수 있습니다.  해당 파일에는 설정된 필터에 따른 데이터가 포함되어 있습니다.</block>
+  <block id="604c259e3085d2c3dad6172279d966f1" category="list-text">알림을 선택하고 해당 클러스터의 알림 세부 정보를 자세히 살펴보세요. 보다 <block ref="ff1222310cdf9ce1470b755c227ba3f7" category="inline-link-macro-rx"></block> .</block>
+  <block id="33de25aa7e1450dd642e3110fbfba371" category="summary">NetApp 알림을 사용하면 워크로드 상태를 확인하고 워크로드를 보호할 수 있습니다.</block>
+  <block id="353efa3fb015ae41a4e136bcf6f333a0" category="doc">ONTAP 알림 개요 보기</block>
+  <block id="af5da82ced2516c24987fa3c5a97718f" category="paragraph">ONTAP System Manager에 직접 연결된 링크를 통해 스토리지 문제를 보고 세부 정보를 확인하세요.</block>
+  <block id="80fa54cf61509d05cee17d35aa111523" category="inline-link-macro">알림 목록 페이지에서 저장소 문제 또는 잠재적 위험을 확인하세요.</block>
+  <block id="bada944ff97ccc6bdb03a0eefe48c7b0" category="list-text"><block ref="100690e5bc3f66329368008c6eec575d" category="inline-link-macro-rx"></block> .</block>
+  <block id="ad29d7223b052b52094346c5131f1f7e" category="inline-link-macro">ONTAP 시스템 관리자에 연결된 경고 세부 정보 보기</block>
+  <block id="1f3f09ac713ab8392e024228b0b44ff7" category="list-text"><block ref="7c6bc72b6c4331f5d897fabdaf57cdec" category="inline-link-macro-rx"></block> .</block>
+  <block id="14bf4338e4fd5a6e020ec983bdd13812" category="summary">NetApp ONTAP 환경에서 용량, 성능, 가용성 및 보안과 관련된 문제나 잠재적 위험을 확인하세요.  ONTAP 시스템 관리자를 사용하면 자세한 내용을 살펴볼 수 있습니다.</block>
+  <block id="9d2b40facc9224b59ee1621ffc31f162" category="doc">ONTAP 알림에 대해 알아보세요</block>
+  <block id="cca5537ab31be6691dfbd0a690cf4f76" category="paragraph">NetApp Console 사용하여 NetApp 온프레미스 ONTAP 시스템의 문제나 잠재적 위험을 확인하세요.  ONTAP 시스템 관리자를 사용하면 자세한 내용을 살펴볼 수 있습니다.</block>
+  <block id="15892c8fcdf51608a11f74d5f6b65d0a" category="paragraph">NetApp Console 에서 ONTAP 알림을 확인하세요.</block>
+  <block id="0a0979a6d279475a420ea5c279943daa" category="paragraph">NetApp Console 엔터프라이즈급 온프레미스 및 클라우드 환경 전반에서 NetApp 스토리지 및 데이터 서비스를 중앙에서 관리할 수 있는 기능을 제공합니다.  NetApp 데이터 서비스에 액세스하고 사용하려면 콘솔이 필요합니다.  관리 인터페이스로서, 하나의 인터페이스에서 여러 스토리지 리소스를 관리할 수 있습니다.  콘솔 관리자는 기업 내 모든 시스템의 저장소와 서비스에 대한 액세스를 제어할 수 있습니다.</block>
+  <block id="833eb8b57934db86bf701c856b5dc107" category="paragraph">NetApp Console 사용하려면 라이선스나 구독이 필요하지 않으며, 스토리지 시스템이나 NetApp 데이터 서비스에 대한 연결을 보장하기 위해 클라우드에 콘솔 에이전트를 배포해야 할 때만 요금이 부과됩니다.  그러나 콘솔에서 액세스할 수 있는 일부 NetApp 데이터 서비스는 라이선스 기반이거나 구독 기반입니다.</block>
+  <block id="4d0bb76e32bfe205406b10f5dfa9d47b" category="paragraph">자세히 알아보세요<block ref="e6368f2dd82be1e975475a1098863578" category="inline-link-rx"></block> .</block>
+  <block id="6b4a9cdd15d4833f07dcd8d873f69639" category="section-title">ONTAP 알림으로 할 수 있는 일</block>
+  <block id="38d1905cf9fc85a2ad2c4a9d4ac94b54" category="paragraph">ONTAP 알림을 확인하여 ONTAP 스토리지 시스템의 위험이나 잠재적 위험에 대한 정보를 얻으세요. EMS가 아닌 알림과 EMS 알림을 볼 수 있습니다.  다음의 심각도와 영향 영역에 대한 정보를 확인할 수 있습니다.</block>
+  <block id="6f8378cd5e88ebcc5f99f344c6d22de6" category="list-text">*영향 영역*: 용량, 성능, 보호, 가용성, 보안, 구성</block>
+  <block id="d97af41823a48f31d06b2f724136c67a" category="admonition">NetApp Console UI의 오른쪽 상단에 있는 알림 옵션은 NetApp Console 수행하는 작업 상태를 모니터링하여 해결해야 할 문제를 식별하는 데 도움을 줍니다.  이러한 알림을 이메일로 받을 수 있습니다.  알림 옵션에는 ONTAP 알림이 ​​포함되지 않습니다.</block>
+  <block id="1162c7016f8c207f9e76f68218170602" category="section-title">ONTAP 알림 모니터링의 이점</block>
+  <block id="c0ab29ad8d25499353e25e7928a554ef" category="paragraph">ONTAP 알림을 모니터링하면 다음과 같은 이점이 있습니다.</block>
+  <block id="f7e430f46106032cfbe3b93ecd7ffbf8" category="list-text">클러스터 전체의 ONTAP 스토리지에 대한 알림을 받으세요.</block>
+  <block id="0fd53d897c27d7f57da79f9401f3a249" category="list-text">다른 서비스에 사용하는 것과 동일한 NetApp Console UI에서 알림을 확인하세요.</block>
+  <block id="263b87ff37b84a7585057d0b04b38209" category="list-text">ONTAP 클러스터에 대한 알림을 자세히 살펴보세요. NetApp Console 에서 시작하여 ONTAP 시스템 관리자에서 세부 정보를 확인하세요.</block>
+  <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">비용</block>
+  <block id="f4965c87fc2be266595e607eab2be2d4" category="paragraph">NetApp ONTAP 라이선스를 사용하면 ONTAP 알림을 볼 수 있습니다.</block>
+  <block id="0b9c6eef4e3d3a222eb04e910d252339" category="section-title">라이센스</block>
+  <block id="c126539a209e58d40e513dbcfc366ecc" category="paragraph">ONTAP 알림을 보려면 NetApp ONTAP 9.10 이상 라이선스가 필요합니다.</block>
+  <block id="8b06ddb0fe76c22ecf1186ad08677d1a" category="paragraph">평가판 라이센스가 필요하지 않습니다.</block>
+  <block id="cb759ff26404c83e6ecc0bdceea307bd" category="paragraph">ONTAP 알림은 NetApp Console 표준(공개) 모드에서만 볼 수 있습니다.</block>
+  <block id="7a1ad6118ee4ffeee81a98b7f16b0dc7" category="section-title">ONTAP 알림 작동 방식</block>
+  <block id="3671052f7a6d697cc71f6f5a92b5acb6" category="paragraph">ONTAP 알림은 NetApp Console 의 핵심 구성 요소입니다.  ONTAP 알림은 ONTAP 클러스터를 모니터링하고 ONTAP 에서 알림 데이터를 수신합니다.</block>
+  <block id="9757db2092aafddd0a3f1955f1f7da01" category="paragraph">ONTAP 알림은 NetApp Console SaaS 환경에서만 사용할 수 있습니다.  로컬 콘솔 에이전트 UI에서는 사용할 수 없습니다.</block>
+  <block id="14d419d6dcfdbca61341f104ce611d2c" category="section-title">지원되는 시스템 및 데이터 소스</block>
+  <block id="68b9997c144b073b7e3012bcf2a1f544" category="paragraph">ONTAP 알림을 사용하여 다음 시스템 및 데이터 소스의 문제를 확인하세요.</block>
+  <block id="12580a939d76b1c9627e5afe922f33a6" category="paragraph">*지원 시스템*</block>
+  <block id="5ef0116072151054af2de9fa50c12a3e" category="paragraph">온프레미스 ONTAP NAS 또는 SAN 시스템이 지원됩니다.</block>
+  <block id="83cbf5349baccbdd5f07abf4dc8ebebe" category="paragraph">현재 Cloud Volumes ONTAP 시스템은 지원되지 않습니다.</block>
+  <block id="7133c14b211d52731ad6f21655c0ec9b" category="paragraph">*지원되는 데이터 소스*</block>
+  <block id="e386436f15048683d3f17d234b4e411c" category="paragraph">ONTAP 에서 발생하는 특정 이벤트에 대한 알림을 확인합니다. 이는 EMS와 지표 기반 알림의 조합입니다.</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">법적 고지 사항</block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">법적 고지사항은 저작권 표시, 상표, 특허 등에 대한 정보를 제공합니다.</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">저작권</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">상표</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NETAPP, NETAPP 로고 및 NetApp 상표 페이지에 나열된 마크는 NetApp, Inc.의 상표입니다. 다른 회사 및 제품 이름은 해당 소유자의 상표일 수 있습니다.</block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">특허</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">NetApp 이 소유한 현재 특허 목록은 다음에서 확인할 수 있습니다.</block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">개인정보 보호정책</block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">오픈소스</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">공지 파일은 NetApp 소프트웨어에서 사용되는 타사 저작권 및 라이선스에 대한 정보를 제공합니다.</block>
+  <block id="b56253bf92505bda20b38657c778bccf" category="doc">페이지 제목은 여기에 있습니다</block>
+  <block id="5d9328ee3f628e51f1a4f871ccff7313" category="paragraph">이 템플릿을 기사, 주제 등 원하는 대로 명명할 때 사용하세요. index.adoc 파일에는 기사 페이지에 대한 올바른 키워드가 없으며, 이를 템플릿으로 사용하면 나중에 게시 문제가 발생할 수 있습니다.</block>
+  <block id="26739de98ff2a207a5c145caf27c2508" category="admonition">사이드바에 링크되지 않은 경우에도 파일이 게시되므로 최초 게시 전에 이 파일을 삭제하세요. 몇 개의 기사를 작성한 후에는 그것을 시작점으로 사용할 수 있습니다.</block>
+  <block id="38b255c5af258b1f086fb7c9aa4f252c" category="paragraph">기사가 콘텐츠 하위 폴더에 있는 경우 위에 표시된 표기법에 두 가지 조정을 해야 합니다.</block>
+  <block id="df25e29acec650a07b41041946158355" category="list-text"><block ref="abc9d0bfc8d5688ddd4babf6a5402ee4" prefix="" category="inline-code"></block></block>
+  <block id="97df5ffadc97296dc727ffddf2d2e1fe" category="list-text"><block ref="ff695bd1637208b4929c7ae2085cd551" prefix="" category="inline-code"></block></block>
+  <block id="ec9b6697280bcdc6fe73fb1fbd87cdc5" category="summary">ONTAP 알림의 새로운 소식을 알아보세요.</block>
+  <block id="a673b2ca97bcca9331de3680fc82c16f" category="doc">ONTAP 알림의 새로운 기능</block>
+  <block id="977ad12cba726d5c33afdf02961c3aea" category="paragraph">ONTAP 알림의 새로운 소식을 알아보세요.</block>
+  <block id="a41dd7aa7d921f9f0881a705d3679e6c" category="section-title">2025년 10월 6일</block>
+  <block id="f66c63cf0ff76c19209f85ca687a2fb4" category="section-title">2024년 10월 7일</block>
+  <block id="f2a8f58f0f128419df337978a7a64994" category="sidebar">용량, 성능, 보호, 가용성 및 보안과 관련된 NetApp ONTAP 환경의 문제나 잠재적 위험을 확인하세요.  ONTAP System Manager에 연결된 알림 세부 정보를 자세히 살펴보고 클러스터 정보를 볼 수 있습니다.</block>
+  <block id="d1fca79bfd86ae1b8808b2d54c4557cb" category="sidebar">ONTAP 알림 문서</block>
+  <block id="ddefdbd3b098417cfb2da526db122d7c" category="sidebar">NetApp ONTAP 환경에서 발생하는 문제나 잠재적 위험을 확인하세요.  ONTAP System Manager를 사용하면 알림 세부 정보를 자세히 살펴보고 클러스터 정보를 볼 수 있습니다.</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">시작하기</block>
+  <block id="64c70ecb73ac830adabb5c7192ca5c07" category="sidebar">ONTAP 알림의 새로운 기능</block>
+  <block id="ee68e5b99222bbc29a480fcb0d1d6ee2" category="sidebar">필수 조건</block>
+  <block id="06ad314b340900d226b1196e1fe289e9" category="sidebar">빠른 시작</block>
+  <block id="1fe917b01f9a3f87fa2d7d3b7643fac1" category="sidebar">자주 묻는 질문</block>
+  <block id="21b7cdb7a1c1ad390e0127aaf40f1116" category="sidebar">ONTAP 알림 사용</block>
+  <block id="f1d6603348ae1d768d44db0a4ef65c7c" category="sidebar">알림 목록 페이지를 사용하여 작업 상태 보기</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">블로그 및 커뮤니티</block>
+  <block id="cc58d3a9b2264c4fd8cb1d3f61b90bdc" category="sidebar">NetApp Data Services</block>
+  <block id="dd490b81914dd945601e442a41cb4222" category="sidebar">NetApp 커뮤니티</block>
+  <block id="e27d74cac0b21f8d8572363e7cd5e68e" category="sidebar">ONTAP 알림 문서</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 노트</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">새로운 소식</block>
+  <block id="17b76c30a93a18ec82fdbf45ed64d83a" category="sidebar">ONTAP 스토리지의 잠재적 위험 보기</block>
+  <block id="58db646924e7031ea878a1e0f5aaf2c6" category="sidebar">스토리지 시스템에서 알림 보기</block>
+</blocks>
