@@ -1,0 +1,47 @@
+---
+settings:
+  name: ONTAP alerts
+  internal:
+    pdf_enabled: true
+    termcheck_enabled: true
+    lipi_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  rss_page: whats-new.html
+  langs: ko-kr,us-en,de-de,es-es,fr-fr,it-it,pt-br,ja-jp,zh-cn,zh-tw
+sidebar:
+  entries:
+  - title: ONTAP 알림 문서
+    url: "/index.html"
+  - title: 릴리스 노트
+    entries:
+    - title: 새로운 소식
+      url: "/whats-new.html"
+  - title: 시작하기
+    entries:
+    - title: ONTAP 알림에 대해 알아보세요
+      url: "/concept-alerts.html"
+    - title: 필수 조건
+      url: "/alerts-start-prerequisites.html"
+    - title: 빠른 시작
+      url: "/alerts-start-quick-start.html"
+    - title: ONTAP 알림 설정
+      url: "/alerts-start-setup.html"
+    - title: ONTAP 알림에 액세스
+      url: "/alerts-start-login.html"
+  - title: ONTAP 알림 사용
+    entries:
+    - title: ONTAP 알림 개요 보기
+      url: "/alerts-use-overview.html"
+    - title: ONTAP 스토리지의 잠재적 위험 보기
+      url: "/alerts-use-dashboard.html"
+    - title: 스토리지 시스템에서 알림 보기
+      url: "/alerts-use-alerts.html"
+  - title: 자주 묻는 질문
+    url: "/alerts-faq.html"
+  - title: 법적 고지 사항
+    url: "/legal-notices.html"
+product-family:
+  name: NetApp Console
+  repo: console-family

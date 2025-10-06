@@ -1,0 +1,37 @@
+---
+indexpage:
+  title: ONTAP 알림 문서
+  summary: NetApp ONTAP 환경에서 발생하는 문제나 잠재적 위험을 확인하세요.  ONTAP System Manager를 사용하면 알림
+    세부 정보를 자세히 살펴보고 클러스터 정보를 볼 수 있습니다.
+  keywords: bluexp, ONTAP, alerts, system manager
+  lead: 용량, 성능, 보호, 가용성 및 보안과 관련된 NetApp ONTAP 환경의 문제나 잠재적 위험을 확인하세요.  ONTAP System
+    Manager에 연결된 알림 세부 정보를 자세히 살펴보고 클러스터 정보를 볼 수 있습니다.
+  tiles:
+  - title: 시작하기
+    links:
+    - title: ONTAP 알림에 대해 알아보세요
+      url: "/concept-alerts.html"
+    - title: ONTAP 알림의 새로운 기능
+      url: "/whats-new.html"
+    - title: 필수 조건
+      url: "/alerts-start-prerequisites.html"
+    - title: 빠른 시작
+      url: "/alerts-start-quick-start.html"
+    - title: ONTAP 알림 설정
+      url: "/alerts-start-setup.html"
+    - title: 자주 묻는 질문
+      url: "/alerts-faq.html"
+  - title: ONTAP 알림 사용
+    links:
+    - title: ONTAP 알림 개요 보기
+      url: "/alerts-use-overview.html"
+    - title: 알림 목록 페이지를 사용하여 작업 상태 보기
+      url: "/alerts-use-dashboard.html"
+  - title: 블로그 및 커뮤니티
+    links:
+    - title: NetApp 콘솔
+      url: https://www.netapp.com/console
+    - title: NetApp 데이터 서비스
+      url: https://www.netapp.com/data-services/
+    - title: NetApp 커뮤니티
+      url: https://community.netapp.com
