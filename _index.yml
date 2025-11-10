@@ -3,7 +3,7 @@ indexpage:
   title: ONTAP 알림 문서
   summary: NetApp ONTAP 환경에서 발생하는 문제나 잠재적 위험을 확인하세요.  ONTAP System Manager를 사용하면 알림
     세부 정보를 자세히 살펴보고 클러스터 정보를 볼 수 있습니다.
-  keywords: bluexp, ONTAP, alerts, system manager
+  keywords: NetApp Console, ONTAP, alerts, system manager, bluexp
   lead: 용량, 성능, 보호, 가용성 및 보안과 관련된 NetApp ONTAP 환경의 문제나 잠재적 위험을 확인하세요.  ONTAP System
     Manager에 연결된 알림 세부 정보를 자세히 살펴보고 클러스터 정보를 볼 수 있습니다.
   tiles:
